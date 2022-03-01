@@ -8,6 +8,6 @@ This Repo will host all the required content required for your classes!
 ## Further Resources:
 - [Kaggle Python Micro Course](https://www.kaggle.com/learn)
 - [CodeAcademy Python Complete Course with Cheatsheets](https://www.codecademy.com/learn/learn-python-3)
+- [Python Tutorial - Python for Beginners [Full Course + Projects in Djano, ML, Automation]](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 - [freeCodeCamp Python Crash Course Notes](https://www.freecodecamp.org/news/python-crash-course/)
-- [freeCodeCamp Python Complete Beginners Course Videos [4Hrs]](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [The Python Challenge (Hard)](http://www.pythonchallenge.com/)
