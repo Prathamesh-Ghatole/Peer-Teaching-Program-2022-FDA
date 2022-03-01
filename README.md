@@ -7,5 +7,8 @@
 - Find Cheatsheets in the "Resources and Cheatsheets" Folder
 
 ## Further Resources:
-- https://www.kaggle.com/learn
-- https://www.freecodecamp.org/news/python-crash-course/
+- [Kaggle Python Micro Course](https://www.kaggle.com/learn)
+- [CodeAcademy Python Complete Course with Cheatsheets](https://www.codecademy.com/learn/learn-python-3)
+- [freeCodeCamp Python Crash Course Notes](https://www.freecodecamp.org/news/python-crash-course/)
+- [freeCodeCamp Python Complete Beginners Course Videos [4Hrs]](https://www.youtube.com/watch?v=rfscVS0vtbw)
+- [The Python Challenge (Hard)](http://www.pythonchallenge.com/)
